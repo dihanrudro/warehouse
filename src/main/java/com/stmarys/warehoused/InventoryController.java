@@ -145,5 +145,4 @@ public class InventoryController {
             System.out.println("No item selected for delete.");
         }
     }
-
 }
