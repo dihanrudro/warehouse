@@ -3,7 +3,7 @@ module com.stmarys.warehoused {
     requires javafx.controls;
     requires javafx.fxml;
 
-    opens com.stmarys.warehoused to javafx.fxml, javafx.graphics;
+    opens com.stmarys.warehoused to javafx.fxml;
     opens com.stmarys.warehoused.model to javafx.base;
     opens com.stmarys.warehoused.dao;
 }
