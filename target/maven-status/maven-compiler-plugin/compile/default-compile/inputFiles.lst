@@ -1,0 +1,12 @@
+C:\Users\Hp\Documents\NetBeansProjects\warehoused\src\main\java\com\stmarys\warehoused\App.java
+C:\Users\Hp\Documents\NetBeansProjects\warehoused\src\main\java\module-info.java
+C:\Users\Hp\Documents\NetBeansProjects\warehoused\src\main\java\com\stmarys\warehoused\InventoryController.java
+C:\Users\Hp\Documents\NetBeansProjects\warehoused\src\main\java\com\stmarys\warehoused\util\DBConnection.java
+C:\Users\Hp\Documents\NetBeansProjects\warehoused\src\main\java\com\stmarys\warehoused\dao\InventoryDAO.java
+C:\Users\Hp\Documents\NetBeansProjects\warehoused\src\main\java\com\stmarys\warehoused\dao\ShipmentDAO.java
+C:\Users\Hp\Documents\NetBeansProjects\warehoused\src\main\java\com\stmarys\warehoused\model\InventoryItem.java
+C:\Users\Hp\Documents\NetBeansProjects\warehoused\src\main\java\com\stmarys\warehoused\OrdersController.java
+C:\Users\Hp\Documents\NetBeansProjects\warehoused\src\main\java\com\stmarys\warehoused\model\Order.java
+C:\Users\Hp\Documents\NetBeansProjects\warehoused\src\main\java\com\stmarys\warehoused\ShipmentsController.java
+C:\Users\Hp\Documents\NetBeansProjects\warehoused\src\main\java\com\stmarys\warehoused\dao\OrderDAO.java
+C:\Users\Hp\Documents\NetBeansProjects\warehoused\src\main\java\com\stmarys\warehoused\model\Shipment.java
